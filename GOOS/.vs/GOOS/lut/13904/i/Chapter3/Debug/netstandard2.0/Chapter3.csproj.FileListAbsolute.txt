@@ -1,0 +1,10 @@
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3\Debug\netstandard2.0\Chapter3.deps.json
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3\Debug\netstandard2.0\Chapter3.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3\Debug\netstandard2.0\Chapter3.pdb
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.csproj.CoreCompileInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.AssemblyInfoInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.AssemblyInfo.cs
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.csproj.CopyComplete
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.pdb
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3\Debug\netstandard2.0\Chapter3.csprojAssemblyReference.cache
