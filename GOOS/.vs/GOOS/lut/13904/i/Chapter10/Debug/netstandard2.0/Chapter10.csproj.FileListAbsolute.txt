@@ -1,0 +1,3 @@
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10\Debug\netstandard2.0\Chapter10.csproj.CoreCompileInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10\Debug\netstandard2.0\Chapter10.AssemblyInfoInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10\Debug\netstandard2.0\Chapter10.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+C:\Users\clmccart\Desktop\code\GOOS\Chapter10.Tests\bin\Debug\netstandard2.0\Chapter10.dll
+C:\Users\clmccart\Desktop\code\GOOS\Chapter10.Tests\obj\Debug\netstandard2.0\Chapter10.Tests.csproj.CoreCompileInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\Chapter10.Tests\obj\Debug\netstandard2.0\Chapter10.Tests.AssemblyInfoInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\Chapter10.Tests\obj\Debug\netstandard2.0\Chapter10.Tests.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.csprojAssemblyReference.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.AssemblyInfoInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.AssemblyInfo.cs
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.deps.json
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.pdb
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.csproj.CopyComplete
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\WalkingSkeleton\Debug\netcoreapp2.1\WalkingSkeleton.pdb
