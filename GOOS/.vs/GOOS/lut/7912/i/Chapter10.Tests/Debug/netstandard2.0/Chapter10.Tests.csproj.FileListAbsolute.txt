@@ -1,0 +1,4 @@
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10.Tests\Debug\netstandard2.0\Chapter10.Tests.csproj.CoreCompileInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10.Tests\Debug\netstandard2.0\Chapter10.Tests.AssemblyInfoInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10.Tests\Debug\netstandard2.0\Chapter10.Tests.AssemblyInfo.cs
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter10.Tests\Debug\netstandard2.0\Chapter10.Tests.csprojAssemblyReference.cache

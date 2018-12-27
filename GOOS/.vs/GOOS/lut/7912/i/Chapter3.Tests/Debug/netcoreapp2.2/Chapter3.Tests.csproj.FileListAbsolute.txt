@@ -1,0 +1,15 @@
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.deps.json
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.runtimeconfig.json
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.runtimeconfig.dev.json
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\b\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.pdb
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.csproj.CoreCompileInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.AssemblyInfoInputs.cache
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.AssemblyInfo.cs
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.csproj.CopyComplete
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.dll
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.pdb
+C:\Users\clmccart\Desktop\code\GOOS\.vs\GOOS\lut\0\i\Chapter3.Tests\Debug\netcoreapp2.2\Chapter3.Tests.csprojAssemblyReference.cache

@@ -1,19 +1,44 @@
 ﻿using System;
+using Matrix;
+using Matrix.Xmpp;
+using Matrix.Xmpp.Client;
+using Matrix.Xmpp.MessageArchiving;
 
 namespace Chapter10.Tests
 {
     public class FakeAuctionServer
     {
-        private string v;
+        public const string ITEM_ID_AS_LOGIN = "auction-%s";
+        public const string AUCTION_RESOURCE = "Auction";
+        public const string XMPP_HOSTNAME = "localhost";
+        private const string AUCTION_PASSWORD = "auction";
 
-        public FakeAuctionServer(string v)
+        private string itemId;
+        private XmppClient connection;
+        private Chat currentChat;
+
+        public FakeAuctionServer(string itemId)
         {
-            this.v = v;
+            this.itemId = itemId;
+            this.connection = new XmppClient(XMPP_HOSTNAME);
         }
 
         public void startSellingItem()
         {
-            throw new NotImplementedException();
+            connection.SetUsername(ITEM_ID_AS_LOGIN);
+            connection.Password = (AUCTION_PASSWORD);
+            connection.SetResource(AUCTION_RESOURCE);
+            //connection.SetXmppDomain()
+            connection.Show = Show.Chat;
+            // Trying to connect...if not send error message! 
+            try {
+                connection.Open();
+                connection.OnLogin += new EventHandler<Matrix.EventArgs />(connection_OnLogin);
+            }
+            catch {
+                XmppException xmppException = new XmppException();
+                throw xmppException;
+            }
         }
 
         public void hasReceivedJoinRequestFromSniper()

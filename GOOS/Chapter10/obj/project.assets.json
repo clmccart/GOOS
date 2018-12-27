@@ -2,6 +2,24 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "MatriX/2.1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Matrix.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Matrix.dll": {}
+        }
+      },
+      "Matrix.NET/0.8.0-CI00002": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Matrix.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Matrix.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -29,6 +47,34 @@
     }
   },
   "libraries": {
+    "MatriX/2.1.0.5": {
+      "sha512": "qtzCJ8jpU2ecSjEu0p9QdH9ftHQmx47k04E3vfCHtF23a6WWS3YME0aKxS1seZEW6E7/6qwYqFlWn1VwqiT/xQ==",
+      "type": "package",
+      "path": "matrix/2.1.0.5",
+      "files": [
+        ".signature.p7s",
+        "lib/net35/Matrix.dll",
+        "lib/net35/Matrix.xml",
+        "lib/net40/Matrix.dll",
+        "lib/net40/Matrix.xml",
+        "lib/net45/Matrix.dll",
+        "lib/net45/Matrix.xml",
+        "matrix.2.1.0.5.nupkg.sha512",
+        "matrix.nuspec",
+        "tools/install.ps1"
+      ]
+    },
+    "Matrix.NET/0.8.0-CI00002": {
+      "sha512": "0gjMgf50LMhrNMKIY6SOjfwbMGUiOr/03sBYgsgPAyCJESfuxW3b7hbPbnabDV1xiPPvAd9GzUNg+cXP0mPjfw==",
+      "type": "package",
+      "path": "matrix.net/0.8.0-ci00002",
+      "files": [
+        ".signature.p7s",
+        "lib/net45/Matrix.dll",
+        "matrix.net.0.8.0-ci00002.nupkg.sha512",
+        "matrix.net.nuspec"
+      ]
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
@@ -175,6 +221,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "MatriX >= 2.1.0.5",
+      "Matrix.NET >= 0.8.0-CI00002",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -219,6 +267,14 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "MatriX": {
+            "target": "Package",
+            "version": "[2.1.0.5, )"
+          },
+          "Matrix.NET": {
+            "target": "Package",
+            "version": "[0.8.0-CI00002, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
@@ -233,5 +289,27 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MatriX 2.1.0.5' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MatriX",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Matrix.NET 0.8.0-CI00002' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Matrix.NET",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
